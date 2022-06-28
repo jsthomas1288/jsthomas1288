@@ -10,7 +10,7 @@ Here are some other important highlights about me:
 
 ➡️ Family comes first 👨‍👩‍👧‍👦🏡
 
-➡️ Crazy, yet super cool, uncle to two kiddos (Aiden and Adalyn) and one dog (Apollo) 👧👦🦮
+➡️ Crazy, yet super cool, uncle to two kiddos and one dog! 👧👦🦮
 
 ➡️ Current soccer player (only recreationally...and seasonally) ⚽️
 
