@@ -24,6 +24,6 @@ One of my main goals in life is to reach financial independence so that I can sp
 
 Two main phrases I typically dwell on are "Enjoy the small things" and "Pay it forward." 💭
 
-Please feel free to reach out or connect with me about anything as I do my best to always keep an open door and an open mind 😁
+Please feel free to reach out or connect with me 😁
 
 Matthew 16:24-26 | Matthew 28:18-20 📖
