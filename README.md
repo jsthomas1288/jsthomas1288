@@ -2,7 +2,7 @@ Hello there 👋
 
 I wanted to take the time to help you get to know me better! 😁
 
-I'm a Front End Developer experienced in building highly responsive websites and holding a strong background in engineering and mathematics.
+I'm a Full Stack Developer experienced in building web applications, highly responsive websites, and holding a strong background in engineering and mathematics.
 
 Here are some other important highlights about me:
 
@@ -10,7 +10,7 @@ Here are some other important highlights about me:
 
 ➡️ Family comes first 👨‍👩‍👧‍👦🏡
 
-➡️ Crazy, yet super cool, uncle to two kiddos and one dog! 👧👦🦮
+➡️ Crazy, yet super cool, uncle to two kiddos and one dog 👧👦🦮
 
 ➡️ Current soccer player (only recreationally...and seasonally) ⚽️
 
@@ -26,4 +26,4 @@ Two main phrases I typically dwell on are "Enjoy the small things" and "Pay it f
 
 Please feel free to reach out or connect with me 😁
 
-Matthew 16:24-26 | Matthew 28:18-20 📖
+Luke 9:23-25 | Matthew 28:18-20 📖
