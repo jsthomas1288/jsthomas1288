@@ -24,6 +24,4 @@ One of my main goals in life is to reach financial independence so that I can sp
 
 Two main phrases I typically dwell on are "Enjoy the small things" and "Pay it forward." 💭
 
-Please feel free to reach out or connect with me 😁
-
 Luke 9:23-25 | Matthew 28:18-20 📖
