@@ -1,8 +1,9 @@
 Hello there 👋 
 
-I wanted to take the time to help you get to know me better! 😁
+I wanted to help you get to know me better! 😁
 
-I'm a Full Stack Developer experienced in building web applications, highly responsive websites, and holding a strong background in engineering and mathematics.
+I'm a Full Stack Web Developer specializing in the MERN stack, Nuxt, and TypeScript.
+I have a passion for building responsive, user-focused web applications and websites. Also, I combine a strong technical background in engineering and mathematics with a creative, people-first approach to development. I'm open to full-time remote or hybrid roles where I can grow, contribute, and serve with excellence. 
 
 Here are some other important highlights about me:
 
@@ -10,7 +11,7 @@ Here are some other important highlights about me:
 
 ➡️ Family comes first 👨‍👩‍👧‍👦🏡
 
-➡️ Crazy, yet super cool, uncle to two kiddos and one dog 👧👦🦮
+➡️ Crazy, yet super cool, uncle to three kiddos 👧👦
 
 ➡️ Current soccer player (only recreationally...and seasonally) ⚽️
 
