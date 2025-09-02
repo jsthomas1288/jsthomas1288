@@ -2,8 +2,8 @@ Hello there 👋
 
 I wanted to help you get to know me better! 😁
 
-I'm a Full Stack Web Developer specializing in the MERN stack, Nuxt, and TypeScript.
-I have a passion for building responsive, user-focused web applications and websites. Also, I combine a strong technical background in engineering and mathematics with a creative, people-first approach to development. I'm open to full-time remote or hybrid roles where I can grow, contribute, and serve with excellence. 
+I'm a Full Stack Software Engineer specializing in the MERN stack, Nuxt, and TypeScript.
+I have a passion for building responsive, user-focused web applications and websites. Also, I combine a strong technical background in engineering and mathematics with a creative, people-first approach to development. 
 
 Here are some other important highlights about me:
 
